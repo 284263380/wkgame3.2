@@ -1,0 +1,9 @@
+name,type,file,effStart,effCnt,effectDelay,IsRestoreOrg,loopCnt,plistPath,pngPath
+a001,1,effect/explo_%02d.png,1,9,2,1,-1,,
+a002,1,effect/exploflower_%04d.png,1,10,1.8,1,-1,,
+a003,1,effect/eff_part1_%05d.png,0,15,1.8,1,-1,,
+a004,1,effect/0049-ecd97d89-%05d.png,0,13,1.5,1,-1,,
+a005,1,effect/show_npc1_%05d.png,0,14,1.6,1,-1,,
+a006,1,effect/show_npc2_%05d.png,0,33,2.5,1,-1,,
+a007,1,effect/show_npc3_%05d.png,1,19,2,1,-1,,
+a008,2,show_npc2_%05d.png,1,19,2,1,-1,effect/npc2.plist,effect/npc2.png
